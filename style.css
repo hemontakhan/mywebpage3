@@ -1,0 +1,40 @@
+.menu{
+  display : flex;
+  justify-content: space-between;
+  background-color: #000000;
+  padding: 15px;
+  font-size : 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+h3{
+display: flex;
+justify-content: space-between;
+background-color: #050505;
+padding: 50px;
+font-size : 20px;
+  font-family:cursive;
+  color: #cccccc;
+}
+
+body{
+background-color: #f0508c;
+}
+
+.grid img{
+  border : 2px solid #000000;
+  border-radius: 100px;
+}
+
+.origami{
+
+  border-radius: 20px;
+  background-color:#ffffff;
+  padding: 30px;
+  margin: 20px;
+  width: 310px;
+  font-family: fantasy;
+
+}
